@@ -1,0 +1,35 @@
+.navbar_container{
+    display: flex;
+    justify-content: space-between;
+}
+.logo{
+    display: flex;
+    margin-top: 1rem;
+    cursor: pointer;
+}
+.petlogo{
+	margin-right:1rem ;
+    color: red;
+}
+.links{
+    display: flex;
+    gap: 2rem;
+    margin-top: 3rem;
+    cursor: pointer;
+}
+.links>a{
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+}
+.reg_button>button{
+    width: 9rem;
+    background-color: red;
+    color: white;
+    padding: 0.9rem;
+    border-radius: 1rem;
+    font-size: 18px;
+    margin-top: 1rem;
+    border: none;
+    cursor: pointer;
+}
