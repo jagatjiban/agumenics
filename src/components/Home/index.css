@@ -164,7 +164,6 @@ p7{
 }
 .footer{
     display: flex;
-    justify-content: space-between;
     gap: 20rem;
     margin-top: 2rem;
 }
