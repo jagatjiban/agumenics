@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3dc6f024.css",
+    "main.js": "/static/js/main.b4c1e0a6.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/pr.jpg": "/static/media/pr.dbe4fb25174114fac6ea.jpg",
+    "static/media/dog3.png": "/static/media/dog3.85b8d3b02e5329a0b99a.png",
+    "static/media/pet_women.jpg": "/static/media/pet_women.317789327d3bfad36a9b.jpg",
+    "static/media/dog1.png": "/static/media/dog1.4edab8ec6b5cd3bb41a5.png",
+    "static/media/dog2.png": "/static/media/dog2.dde1ef273b8056765911.png",
+    "static/media/p3.jfif": "/static/media/p3.70abec38e0df7f493402.jfif",
+    "static/media/p5.jfif": "/static/media/p5.d335e7d94cdd3c6cce68.jfif",
+    "static/media/p4.jfif": "/static/media/p4.3e5f548fe82f356d1a7d.jfif",
+    "static/media/p1.jfif": "/static/media/p1.aa91d75b0c3102c64b4f.jfif",
+    "static/media/p2.jfif": "/static/media/p2.d880b38655c19e8a324e.jfif",
+    "index.html": "/index.html",
+    "main.3dc6f024.css.map": "/static/css/main.3dc6f024.css.map",
+    "main.b4c1e0a6.js.map": "/static/js/main.b4c1e0a6.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3dc6f024.css",
+    "static/js/main.b4c1e0a6.js"
+  ]
+}
