@@ -2,3 +2,9 @@ body{
     margin: 0px 120px;
     max-width: 2000px;
 }
+.pet_watermark{
+    position: absolute;
+    color: lightgray;
+    font-size: 50px;
+    transform: rotate(50deg);
+}

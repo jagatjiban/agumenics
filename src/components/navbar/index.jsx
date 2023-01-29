@@ -22,11 +22,11 @@ const Navbar = () => {
       <h1>PetCare</h1>
       </div>
       <div className="links">
-          <a href="*">Home</a>
-          <a href="*">Aboutus</a>
-          <a href="*">Services</a>
-          <a href="*">pet Health</a>
-          <a href="*">Contact us</a>
+          <a href="">Home</a>
+          <a href="">Aboutus</a>
+          <a href="">Services</a>
+          <a href="">pet Health</a>
+          <a href="">Contact us</a>
       </div>
       <div className='reg_button'>
         <button>Register</button>
