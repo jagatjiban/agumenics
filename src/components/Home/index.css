@@ -164,8 +164,9 @@ p7{
 }
 .footer{
     display: flex;
-    gap: 20rem;
+    justify-content: space-between;
     margin-top: 2rem;
+    width: 1600px;
 }
 .learn_container{
     display: flex;
@@ -220,4 +221,14 @@ p7{
 .footer_desc{
     font-size: 13px;
     text-align: center;
+}
+
+@media screen and (max-width:800px){
+    .footer{
+        flex-direction: column;
+        
+    }
+    .home_container{
+        flex-direction: column;
+    }
 }
