@@ -1,6 +1,7 @@
 .navbar_container{
     display: flex;
     justify-content: space-between;
+    width: 1600px;
 }
 .logo{
     display: flex;
@@ -32,4 +33,9 @@
     margin-top: 1rem;
     border: none;
     cursor: pointer;
+}
+@media screen and (max-width:800px){
+    .navbar_container{
+        flex-direction: column;
+    }
 }
