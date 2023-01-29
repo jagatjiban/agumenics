@@ -11,7 +11,7 @@ function App() {
       </div>
       <div
         className="pet_watermark"
-        style={{ top: "30rem", right: "8rem", transform: "rotate(-40deg)" }}
+        style={{ top: "30rem", right: "12rem", transform: "rotate(-40deg)" }}
       >
         <MdOutlinePets />
       </div>

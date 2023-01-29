@@ -2,7 +2,7 @@
     position: relative;
     margin-top: 2rem;
     display: flex;
-    gap: 20rem;
+    gap: 14rem;
 }
 p1{
     font-size: 50px;
@@ -16,9 +16,10 @@ p3{
     font-size: 13px;
 }
 p4{
-    font-size: 30px;
+    font-size: 50px;
     margin-left: 2rem;
     color: red;
+    cursor: pointer;
 }
 .buttons{
     margin-top: 2rem;
@@ -166,11 +167,17 @@ p7{
     display: flex;
     justify-content: space-between;
     margin-top: 2rem;
-    width: 1600px;
+    width: 1400px;
 }
 .learn_container{
+    border-top-left-radius: 3rem;
+    border-top-right-radius: 3rem;
+    background-image:url(../../assets/b.jpg) ;
+    background-size: cover;
+}
+.learn_container2{
     display: flex;
-    background-color:rgba(0, 0, 0, 0.935) ;
+    background-color:rgba(0, 0, 0, 0.898) ;
     border-top-left-radius: 3rem;
     border-top-right-radius: 3rem;
 }

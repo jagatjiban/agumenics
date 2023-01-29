@@ -1,9 +1,9 @@
 import React from 'react'
 import './index.css';
 import{MdOutlinePets} from 'react-icons/md'
-import { useState } from 'react';
-import { useEffect } from 'react';
-import { urlFor,client } from '../../client';
+// import { useState } from 'react';
+// import { useEffect } from 'react';
+// import { urlFor,client } from '../../client';
 
 const Navbar = () => {
   // const [datas,setDatas]= useState();

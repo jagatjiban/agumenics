@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react'
+import React from 'react'
 import './index.css'
 import {FaCat} from 'react-icons/fa';
 import{BsArrowUpRight , BsStarFill} from 'react-icons/bs';
@@ -14,7 +14,7 @@ import pr from '../../assets/pr.jpg'
 import dog1 from '../../assets/dog1.png'
 import dog2 from '../../assets/dog2.png'
 import dog3 from '../../assets/dog3.png'
-import { client } from '../../client';
+// import { client } from '../../client';
 
 const Home = () => {
 //     const [datas,setDatas]= useState();
@@ -73,6 +73,7 @@ const Home = () => {
             </div>
         </div>
         <div className="learn_container">
+        <div className="learn_container2">
             <div className="blue_box">
                 <div className="before"><MdNavigateBefore/></div>
                 <div className="dogs">
@@ -98,6 +99,7 @@ const Home = () => {
                 </div>
                 <div className='footer_desc'>Learn how to take care of your <br /> pet with proper guidance</div>
             </div>
+        </div>
         </div>
       </div>
 
