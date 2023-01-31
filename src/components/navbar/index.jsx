@@ -31,7 +31,7 @@ const Navbar = () => {
           <Link to="/contact">Contact us</Link>
       </div>
       <div className='reg_button'>
-      <a href="http://localhost:3333/desk/petcare;4d89c9f7-3b04-4282-be4f-aeb6fe622bba" target="_blank">
+      <a href="https://petcaredashboard.sanity.studio/" target="_blank">
         <button>Register</button>
       </a>
       </div>
