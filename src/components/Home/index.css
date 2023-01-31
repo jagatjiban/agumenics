@@ -229,11 +229,35 @@ p7{
     font-size: 13px;
     text-align: center;
 }
+.social_icon{
+    display: flex;
+    gap: 1rem;
+    max-width: 200px;
+    margin: 20px;
+    padding-left: 7rem ;
+}
+.social_icon>a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+.facebook:hover,
+.linkedin:hover{
+    color: blue;
+}
+.insta:hover{
+    color: rgb(247,1,189);
+}
+.youtube:hover{
+    color: red;
+}
+.github:hover{
+    color: orangered;
+}
 
 @media screen and (max-width:800px){
     .footer{
         flex-direction: column;
-        
     }
     .home_container{
         flex-direction: column;
